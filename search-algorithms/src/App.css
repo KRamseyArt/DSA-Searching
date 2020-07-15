@@ -1,0 +1,30 @@
+.App {
+  margin: 20px;
+}
+
+.App form input{
+  margin: 10px auto;
+  display: block;
+}
+.result {
+  background: thistle;
+  width: 250px;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px auto;
+}
+.searchTitle {
+  color: white;
+  margin-bottom: 10px;
+}
+.success {
+  color: green;
+  font-weight: bold;
+}
+.fail {
+  color: red;
+  font-weight: bold;
+}
+.count {
+  font-weight: bold;
+}
